@@ -64,11 +64,11 @@ class TransactionalDatabase:
 
       Format:
 
-      (.venv) $ python3 TransactionalDatabase.py <numLines> <avgItemsPerLine> <numItems>
+      (.venv) $ python3 TransactionalDatabase_old.py <numLines> <avgItemsPerLine> <numItems>
 
       Example Usage:
 
-      (.venv) $ python3 TransactionalDatabase.py 50.0 10.0 100
+      (.venv) $ python3 TransactionalDatabase_old.py 50.0 10.0 100
 
 
 
